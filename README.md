@@ -13,3 +13,5 @@
 [2020.05.08 耳听为虚，眼见未必为实](https://github.com/Lobster-King/BBKing/blob/master/2020.05.08%20%E8%80%B3%E5%90%AC%E4%B8%BA%E8%99%9A%EF%BC%8C%E7%9C%BC%E8%A7%81%E6%9C%AA%E5%BF%85%E4%B8%BA%E5%AE%9E.md)
 
 [2020.05.08 『探讨』什么是言论自由？](https://github.com/Lobster-King/BBKing/blob/master/2020.05.08%20%E3%80%8E%E6%8E%A2%E8%AE%A8%E3%80%8F%E4%BB%80%E4%B9%88%E6%98%AF%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1%EF%BC%9F.md)
+
+[2020.05.09 『探讨』今年五四青年节你"浪"了吗？](https://github.com/Lobster-King/BBKing/blob/master/2020.05.09%20%E3%80%8E%E6%8E%A2%E8%AE%A8%E3%80%8F%E4%BB%8A%E5%B9%B4%E4%BA%94%E5%9B%9B%E9%9D%92%E5%B9%B4%E8%8A%82%E4%BD%A0%22%E6%B5%AA%22%E4%BA%86%E5%90%97%EF%BC%9F.md)
