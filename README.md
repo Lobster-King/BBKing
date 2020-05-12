@@ -19,3 +19,5 @@
 [2020.05.10 身体健康就是最大的资本](https://github.com/Lobster-King/BBKing/blob/master/2020.05.10%20%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7%E5%B0%B1%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E8%B5%84%E6%9C%AC.md)
 
 [2020.05.11 『感悟』T序列在团队内部快速成长的小诀窍](https://github.com/Lobster-King/BBKing/blob/master/2020.05.11%20%E3%80%8E%E6%84%9F%E6%82%9F%E3%80%8FT%E5%BA%8F%E5%88%97%E5%9C%A8%E5%9B%A2%E9%98%9F%E5%86%85%E9%83%A8%E5%BF%AB%E9%80%9F%E6%88%90%E9%95%BF%E7%9A%84%E5%B0%8F%E8%AF%80%E7%AA%8D.md)
+
+[2020.05.12 君子欲讷于言而敏于行 欲敏于事而慎于言](https://github.com/Lobster-King/BBKing/blob/master/2020.05.12%20%E5%90%9B%E5%AD%90%E6%AC%B2%E8%AE%B7%E4%BA%8E%E8%A8%80%E8%80%8C%E6%95%8F%E4%BA%8E%E8%A1%8C%20%20%E6%AC%B2%E6%95%8F%E4%BA%8E%E4%BA%8B%E8%80%8C%E6%85%8E%E4%BA%8E%E8%A8%80.md)
