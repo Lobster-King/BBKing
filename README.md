@@ -23,3 +23,5 @@
 [2020.05.12 君子欲讷于言而敏于行 欲敏于事而慎于言](https://github.com/Lobster-King/BBKing/blob/master/2020.05.12%20%E5%90%9B%E5%AD%90%E6%AC%B2%E8%AE%B7%E4%BA%8E%E8%A8%80%E8%80%8C%E6%95%8F%E4%BA%8E%E8%A1%8C%20%20%E6%AC%B2%E6%95%8F%E4%BA%8E%E4%BA%8B%E8%80%8C%E6%85%8E%E4%BA%8E%E8%A8%80.md)
 
 [2020.05.13 『感悟』提高自己总结归纳能力小窍门](https://github.com/Lobster-King/BBKing/blob/master/2020.05.13%20%E3%80%8E%E6%84%9F%E6%82%9F%E3%80%8F%E6%8F%90%E9%AB%98%E8%87%AA%E5%B7%B1%E6%80%BB%E7%BB%93%E5%BD%92%E7%BA%B3%E8%83%BD%E5%8A%9B%E5%B0%8F%E7%AA%8D%E9%97%A8.md)
+
+[2020.05.14 如何做好技术分享](https://github.com/Lobster-King/BBKing/blob/master/2020.05.14%20%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.md)
