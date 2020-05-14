@@ -24,4 +24,4 @@
 
 [2020.05.13 『感悟』提高自己总结归纳能力小窍门](https://github.com/Lobster-King/BBKing/blob/master/2020.05.13%20%E3%80%8E%E6%84%9F%E6%82%9F%E3%80%8F%E6%8F%90%E9%AB%98%E8%87%AA%E5%B7%B1%E6%80%BB%E7%BB%93%E5%BD%92%E7%BA%B3%E8%83%BD%E5%8A%9B%E5%B0%8F%E7%AA%8D%E9%97%A8.md)
 
-[2020.05.14 如何做好技术分享](https://github.com/Lobster-King/BBKing/blob/master/2020.05.14%20%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.md)
+[2020.05.14 『感悟』如何做好技术分享](https://github.com/Lobster-King/BBKing/blob/master/2020.05.14%20%E3%80%8E%E6%84%9F%E6%82%9F%E3%80%8F%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.md)
