@@ -28,3 +28,6 @@
 
 [2020.05.15 怎样提高说话的技巧](https://github.com/Lobster-King/BBKing/blob/master/2020.05.15%20%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%AF%B4%E8%AF%9D%E7%9A%84%E6%8A%80%E5%B7%A7.md)
 
+
+[2020.05.15 有一种东西是百度永远搜不到的，你知道是什么吗？](https://github.com/Lobster-King/BBKing/blob/master/2020.05.15%20%E6%9C%89%E4%B8%80%E7%A7%8D%E4%B8%9C%E8%A5%BF%E6%98%AF%E7%99%BE%E5%BA%A6%E6%B0%B8%E8%BF%9C%E6%90%9C%E4%B8%8D%E5%88%B0%E7%9A%84%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E6%98%AF%E4%BB%80%E4%B9%88%E5%90%97%EF%BC%9F.md)
+
