@@ -35,7 +35,7 @@
 
 [2020.05.19 左耳朵耗子关于学习的观点](https://github.com/Lobster-King/BBKing/blob/master/2020.05.19%20%E5%B7%A6%E8%80%B3%E6%9C%B5%E8%80%97%E5%AD%90%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%A7%82%E7%82%B9.md)
 
-
+[2020.05.20 『感悟』与高T之间的差距](https://github.com/Lobster-King/BBKing/blob/master/2020.05.20%20%E3%80%8E%E6%84%9F%E6%82%9F%E3%80%8F%E4%B8%8E%E9%AB%98T%E4%B9%8B%E9%97%B4%E7%9A%84%E5%B7%AE%E8%B7%9D.md)
 
 
 
