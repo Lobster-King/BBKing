@@ -39,5 +39,5 @@
 
 [2020.05.21 如何开一个高效的工作会议？](https://github.com/Lobster-King/BBKing/blob/master/2020.05.21%20%E5%A6%82%E4%BD%95%E5%BC%80%E4%B8%80%E4%B8%AA%E9%AB%98%E6%95%88%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%EF%BC%9F.md)
 
-
+[2020.05.25 如何成为一个高情商的人？](https://github.com/Lobster-King/BBKing/blob/master/2020.05.25%20%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E9%AB%98%E6%83%85%E5%95%86%E7%9A%84%E4%BA%BA%EF%BC%9F.md)
 
