@@ -41,3 +41,8 @@
 
 [2020.05.25 如何成为一个高情商的人？](https://github.com/Lobster-King/BBKing/blob/master/2020.05.25%20%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E9%AB%98%E6%83%85%E5%95%86%E7%9A%84%E4%BA%BA%EF%BC%9F.md)
 
+[2020.05.26 结构化思维](https://github.com/Lobster-King/BBKing/blob/master/2020.05.26%20%E7%BB%93%E6%9E%84%E5%8C%96%E6%80%9D%E7%BB%B4.md)
+
+
+
+
