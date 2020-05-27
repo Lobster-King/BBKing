@@ -44,5 +44,5 @@
 [2020.05.26 结构化思维](https://github.com/Lobster-King/BBKing/blob/master/2020.05.26%20%E7%BB%93%E6%9E%84%E5%8C%96%E6%80%9D%E7%BB%B4.md)
 
 
-
+[2020.05.27 心疼『赵东来](https://github.com/Lobster-King/BBKing/blob/master/2020.05.27%20%E5%BF%83%E7%96%BC%E3%80%8E%E8%B5%B5%E4%B8%9C%E6%9D%A5%E3%80%8F.md)
 
