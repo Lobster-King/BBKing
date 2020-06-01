@@ -48,3 +48,5 @@
 
 [2020.05.28 今天由『回家吃饭』倒闭说起](https://github.com/Lobster-King/BBKing/blob/master/2020.05.28%20%E4%BB%8A%E5%A4%A9%E7%94%B1%E3%80%8E%E5%9B%9E%E5%AE%B6%E5%90%83%E9%A5%AD%E3%80%8F%E5%80%92%E9%97%AD%E8%AF%B4%E8%B5%B7.md)
 
+[2020.06.01 I hear and I forget; I see and I remember; I do and I understand.](https://github.com/Lobster-King/BBKing/blob/master/2020.06.01%20I%20hear%20and%20I%20forget;%20I%20see%20and%20I%20remember;%20I%20do%20and%20I%20understand.md)
+
